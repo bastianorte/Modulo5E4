@@ -1,11 +1,12 @@
-# Modulo 5 Ejercicio 3
+# Modulo 5 Ejercicio 4
 
 ## 📖 Descripción
-En este proyecto, los estudiantes deberán aplicar medidas de seguridad avanzadas en la web
-del hospital desarrollada en ReactJS. Integrarán protección contra ataques comunes,
-asegurarán las rutas de la aplicación y protegerán el consumo de APIs utilizando API Key y
-JWT. Además, se implementará seguridad por roles y autenticación de usuarios para restringir
-el acceso a áreas específicas de la aplicación.
+En este proyecto, los estudiantes aplicarán las herramientas avanzadas que han aprendido
+para mejorar y optimizar la web del hospital. Utilizarán Fetch API o Axios para gestionar el
+consumo de datos de APIs, integrarán TypeScript para asegurar el tipado y estructura del
+código, reforzarán la seguridad del front-end y gestionarán los errores de manera eficiente. El
+objetivo es que la web del hospital funcione de manera fluida, segura y con una estructura bien
+organizada.
 
 ## :no_entry: Accesos de Usuario
 
@@ -77,13 +78,13 @@ el acceso a áreas específicas de la aplicación.
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/bastianorte/Modulo5E3.git
+git clone https://github.com/bastianorte/Modulo5E4.git
 ```
 
 Navega hasta el directorio del proyecto:
 
 ```bash
-cd Modulo5E3
+cd Modulo5E4
 ```
 
 Instala las dependencias:
